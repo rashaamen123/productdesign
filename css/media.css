@@ -1,0 +1,138 @@
+
+@media (min-width: 320px) and (max-width: 575.98px) {
+  #but-header{
+    margin-left: 0px;
+  }
+  .contant-section{
+    flex-direction: column;
+    height: 50em;
+    width: 100%;
+    justify-content: center;
+    }
+    .images {
+      display: flex;
+      margin-top: -1em;
+      justify-content: center;
+      margin-bottom: 5em;
+  }
+  .butontext{
+    margin-left: -2em;
+  }
+  .contantsect {
+    flex-direction: column;
+    padding: 2em;
+}
+  .section-two{
+    height: 50em;
+    width: 100%;
+  }
+ 
+  .imgprodecut{
+    width: 90%;
+  }
+  .section-five{
+    display: block;
+    height: 45em;
+    width: 100%;
+  }
+  .textf{
+margin-left: -2em;
+  }
+  .butf{
+    width: 40%;
+  }
+  .imge{
+    width: 61%;
+    margin-left: 4em;
+  }
+  .head{
+    font-size: 14px;
+  }
+  footer.footerdes{
+    display: block;
+  }
+  .master-top{
+  display: block;
+  justify-content:  center;
+  }
+  .master-bottom{
+    display: block;
+  }
+  .section-three{   
+    height: 118em;
+    width: 100%;
+    border-radius: 0%;
+  }
+  .section-four{
+    width: 100%;
+  }
+  .footerdes {
+    width: 21.9em;
+    margin-left: -2em;
+}
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+.contant-section{
+  display: block;
+}
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .images {
+ margin-top: 11em;
+}
+.master-top{
+flex-wrap: nowrap;
+}
+.master-bottom{
+  flex-wrap: nowrap;
+}
+.section-five{
+  height: 24em;
+  width: 100%;
+}
+.imgprodecut{
+  width: 30%;
+  margin-top: 9em;
+  height: 15pc;
+}
+  /* #but-header{
+    margin-left: 0px;
+  }
+  .contant-section{
+    flex-direction: column;
+    height: 50em;
+    width: 100%;
+    justify-content: center;
+    }
+    .images {
+      display: flex;
+      margin-top: -1em;
+      justify-content: center;
+  }
+  .butontext{
+    margin-left: -2em;
+  }
+  .master-top{
+    display: block;
+    justify-content:  center;
+    }
+    .master-bottom{
+      display: block;
+    
+    }
+    .footerpag {
+      margin-top: 23em;
+  }
+    footer.footerdes{
+      display: block;
+    }
+    .section-three{
+      height: 135em;
+      width: 100%;
+      border-radius: 0%;
+    } */
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
